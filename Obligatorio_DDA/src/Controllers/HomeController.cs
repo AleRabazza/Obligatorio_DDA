@@ -2,7 +2,7 @@ using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Obligatorio_DDA.Models;
 
-namespace Obligatorio_DDA.Controllers
+namespace Obligatorio_DDA.src.Controllers
 {
     public class HomeController : Controller
     {

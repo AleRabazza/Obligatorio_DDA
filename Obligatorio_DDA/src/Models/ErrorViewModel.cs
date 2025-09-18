@@ -1,4 +1,4 @@
-namespace Obligatorio_DDA.Models
+namespace Obligatorio_DDA.src.Models
 {
     public class ErrorViewModel
     {
